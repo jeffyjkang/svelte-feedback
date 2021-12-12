@@ -1,4 +1,4 @@
-<script>
+<script lang='ts'>
   export let style = 'primary';
   export let type = 'button';
   export let disabled = false;

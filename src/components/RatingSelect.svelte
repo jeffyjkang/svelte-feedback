@@ -1,4 +1,4 @@
-<script>
+<script lang='ts'>
   import {createEventDispatcher} from 'svelte';
   let ratingsArray = [1,2,3,4,5,6,7,8,9,10];
   let selected = 10;
